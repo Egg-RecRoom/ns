@@ -1,0 +1,17 @@
+{
+  "API": "http://oldrecroom.com:35153/",
+	"Auth": "http://oldrecroom.com:35153/auth/",
+	"Notifications": "http://oldrecroom.com:35153/notify/",
+	"Images": "http://oldrecroom.com:35153/img/",
+	"Commerce": "http://oldrecroom.com:35153/api/money/",
+	"CDN": "http://oldrecroom.com:35153/cdn/",
+	"WWW": "http://oldrecroom.com:35153/",
+	"Matchmaking": "http://oldrecroom.com:35153/match/",
+	"Storage": "http://oldrecroom.com:35153/storage/",
+	"Chat": "http://oldrecroom.com:35153/chat/",
+	"Leaderboard": "http://oldrecroom.com:35153/leader/",
+	"Accounts": "http://oldrecroom.com:35153/accounts/",
+	"Link": "http://oldrecroom.com:35153/link/",
+	"RoomComments": "http://oldrecroom.com:35153/comment/",
+	"Clubs": "http://oldrecroom.com:35153/clubs/"
+}
