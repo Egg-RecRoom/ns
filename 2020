@@ -13,5 +13,5 @@
 	"Accounts": "http://127.0.0.1:35153/accounts/",
 	"Link": "http://127.0.0.1:35153/link/",
 	"RoomComments": "http://127.0.0.1:35153/comment/",
-	"Clubs": "http://127.0.0.1:35153/clubs/",
+	"Clubs": "http://127.0.0.1:35153/clubs/"
 }
